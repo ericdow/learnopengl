@@ -1,0 +1,15 @@
+/home/ericdow/code/learnopengl/build/debug/CMakeFiles/edit_cache.dir
+/home/ericdow/code/learnopengl/build/debug/CMakeFiles/rebuild_cache.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/rebuild_cache.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/HelloTriangle.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/TextureTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/WarpCubes.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/foo.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/ModelLoadingTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/glmTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/edit_cache.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/ShaderTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/HelloWindow.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/CameraTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/CoordinatesTutorial.dir
+/home/ericdow/code/learnopengl/build/debug/src/CMakeFiles/LightingTutorial.dir

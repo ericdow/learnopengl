@@ -1,0 +1,18 @@
+# Hashes of file build rules.
+6594a3868ccae785d160c4e7f4494ab9 src/CMakeFiles/foo
+fb1fb0b67cb7e9bcbe22b2cf2657e367 src/awesomeface.png
+3e2cdab68f2457bcbec0a4ec1a7135a1 src/box.frag
+f2b0941829da988a1d40e8b20394187d src/box.vs
+1e91e186b5d420eb1d6f69117d742c7e src/box_gouraud.frag
+933c5ebd9a7788dd5de1261a786c9dd6 src/box_gouraud.vs
+fb98264556bce6b54d41d6e15981661c src/container.jpg
+020efb4e178fd7a2a9732f6a855900b0 src/coordinates.frag
+db50cff036daa89d375098a0d48ea30b src/coordinates.vs
+e69c85cff2eac13f0fe6e82da70ff266 src/lamp.frag
+7ae333bd9b94fa32ca1f39c601dd5951 src/lamp.vs
+89063854de3453f2e397a1151b8c0692 src/model_loading.frag
+86d736f3686a9fda511fd096b23eb66b src/model_loading.vs
+c02ed49dc0237ec474f3b98a88e44687 src/textures.frag
+6744c142dc4853541724e237e0fb1aec src/textures.vs
+87d4ca53df35775e29bf24a84f28c435 src/transformations.frag
+68cb5d572ca17a2d7aa911382b177909 src/transformations.vs

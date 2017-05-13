@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../includes/SOIL.h
+
+/home/ericdow/code/learnopengl/src/Shader.h
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+GL/glew.h
+-
+
+/home/ericdow/code/learnopengl/src/TextureTutorial.cpp
+iostream
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+SOIL.h
+/home/ericdow/code/learnopengl/src/SOIL.h
+Shader.h
+/home/ericdow/code/learnopengl/src/Shader.h
+

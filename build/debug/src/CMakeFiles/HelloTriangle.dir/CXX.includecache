@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ericdow/code/learnopengl/src/HelloTriangle.cpp
+iostream
+-
+cstdlib
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+
